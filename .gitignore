@@ -1,3 +1,5 @@
 .idea/
 __pypackages__/
+__pycache__/
+.DS_Store
 .pdm.toml

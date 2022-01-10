@@ -20,6 +20,7 @@ homepage = "https://github.com/bcorfman/digsig.git"
 [tool.pdm.dev-dependencies]
 dev = [
     "pytest>=6.2.5",
+    "ipython>=7.16.2",
 ]
 
 [build-system]
